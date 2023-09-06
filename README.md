@@ -1,4 +1,4 @@
-# VBA-challenge
+```# VBA-challenge
 Sub stockloop()
 
 Dim ws As Worksheet
@@ -6,10 +6,10 @@ Dim wb As Workbook
 
 Set wb = ActiveWorkbook
 
-'analyze each worksheet
+analyze each worksheet
 For Each ws In Worksheets
 
-'summary table
+summary table
 Dim summary_table As Long
 summary_table = 2
 
@@ -131,4 +131,4 @@ Next i
 
 Next ws
 
-End Sub
+End Sub```
