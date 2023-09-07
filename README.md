@@ -13,12 +13,18 @@ The first excel worksheet screenshots shows the output table for 2018
   'The ticker with the Greatest % decrease was RKS with a value of -90.02%
   'The ticker with the Greatest total volume was QKN with a value of 1.69E+12
 
+![alt text](https://github.com/velarde9/VBA-challenge/blob/main/VBAchallenge2018.png?raw=true)
+
 The second excel worksheet screenshot shows the output results for 2019
   'In this year, the ticker with the Greatest % increase was RYU with a value of 190.03%.
   'The ticker with the Greatest % decrease was RKS with a value of -91.60%
   'The ticker with the Greatest total volume was ZQD with a value of 4.37E+12
 
+![alt text](https://github.com/velarde9/VBA-challenge/blob/main/VBAchallenge2019.png?raw=true)
+
 The third excel worksheet screenshot shows the output results for 2020
   'In this year, the ticker with the Greatest % increase was YDI with a value of 188.76%.
   'The ticker with the Greatest % decrease was VNG with a value of -89.05%
   'The ticker with the Greatest total volume was QKN with a value of 3.45E+12
+
+![alt text](https://github.com/velarde9/VBA-challenge/blob/main/VBAchallenge2020.png?raw=true)
